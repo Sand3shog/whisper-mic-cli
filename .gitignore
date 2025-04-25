@@ -1,0 +1,17 @@
+# Secrets
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.so
+
+# WhisperMic outputs
+transcribed_text.txt
+transcription_log.json
+*.wav
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
